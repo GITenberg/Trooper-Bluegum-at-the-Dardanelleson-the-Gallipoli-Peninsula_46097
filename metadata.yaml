@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43610'
     url: http://www.gutenberg.org/2009/agents/43610
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46097#Trooper-Bluegum-at-the-Dardanelleson-the-Gallipoli-Peninsula
 gutenberg_issued: '2014-06-25'
 gutenberg_type: Text
 identifiers:
